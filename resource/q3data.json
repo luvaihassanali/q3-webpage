@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "John",
+    "Country": "Canada",
+	"Score": 42
+  },
+  {
+    "Name": "Tony",
+    "Country": "Denmark",
+	"Score": 21
+  },
+  {
+    "Name": "Jane",
+    "Country": "Russia",
+	"Score": 67
+  },
+    "Name": "Mark",
+    "Country": "Haiti",
+	"Score": 70
+]
